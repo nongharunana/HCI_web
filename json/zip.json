@@ -1,0 +1,698 @@
+[
+ {
+   "value": 2,
+   "name": "10100",
+   "x": 1,
+   "y": 1,
+   "'hc-a2'": "10100",
+   "region": "Bangkok"
+ },
+ {
+   "value": 62,
+   "name": "10110",
+   "x": 1,
+   "y": 2,
+   "'hc-a2'": "10110",
+   "region": "Bangkok"
+ },
+ {
+   "value": 83,
+   "name": "10120",
+   "x": 1,
+   "y": 3,
+   "'hc-a2'": "10120",
+   "region": "Bangkok"
+ },
+ {
+   "value": 10,
+   "name": "10130",
+   "x": 1,
+   "y": 4,
+   "'hc-a2'": "10130",
+   "region": "Bangkok"
+ },
+ {
+   "value": 4,
+   "name": "10140",
+   "x": 1,
+   "y": 5,
+   "'hc-a2'": "10140",
+   "region": "Bangkok"
+ },
+ {
+   "value": 10,
+   "name": "10150",
+   "x": 1,
+   "y": 6,
+   "'hc-a2'": "10150",
+   "region": "Bangkok"
+ },
+ {
+   "value": 6,
+   "name": "10160",
+   "x": 1,
+   "y": 7,
+   "'hc-a2'": "10160",
+   "region": "Bangkok"
+ },
+ {
+   "value": 2,
+   "name": "10170",
+   "x": 1,
+   "y": 8,
+   "'hc-a2'": "10170",
+   "region": "Bangkok"
+ },
+ {
+   "value": 8,
+   "name": "10210",
+   "x": 1,
+   "y": 9,
+   "'hc-a2'": "10210",
+   "region": "Bangkok"
+ },
+ {
+   "value": 4,
+   "name": "10220",
+   "x": 1,
+   "y": 10,
+   "'hc-a2'": "10220",
+   "region": "Bangkok"
+ },
+ {
+   "value": 16,
+   "name": "10230",
+   "x": 1,
+   "y": 11,
+   "'hc-a2'": "10230",
+   "region": "Bangkok"
+ },
+ {
+   "value": 18,
+   "name": "10240",
+   "x": 2,
+   "y": 1,
+   "'hc-a2'": "10240",
+   "region": "Bangkok"
+ },
+ {
+   "value": 27,
+   "name": "10250",
+   "x": 2,
+   "y": 2,
+   "'hc-a2'": "10250",
+   "region": "Bangkok"
+ },
+ {
+   "value": 28,
+   "name": "10260",
+   "x": 2,
+   "y": 3,
+   "'hc-a2'": "10260",
+   "region": "Bangkok"
+ },
+ {
+   "value": 7,
+   "name": "10270",
+   "x": 2,
+   "y": 4,
+   "'hc-a2'": "10270",
+   "region": "Bangkok"
+ },
+ {
+   "value": 14,
+   "name": "10280",
+   "x": 2,
+   "y": 5,
+   "'hc-a2'": "10280",
+   "region": "Bangkok"
+ },
+ {
+   "value": 4,
+   "name": "10290",
+   "x": 2,
+   "y": 6,
+   "'hc-a2'": "10290",
+   "region": "Bangkok"
+ },
+ {
+   "value": 5,
+   "name": "10300",
+   "x": 2,
+   "y": 7,
+   "'hc-a2'": "10300",
+   "region": "Bangkok"
+ },
+ {
+   "value": 64,
+   "name": "10310",
+   "x": 2,
+   "y": 8,
+   "'hc-a2'": "10310",
+   "region": "Bangkok"
+ },
+ {
+   "value": 14,
+   "name": "10320",
+   "x": 2,
+   "y": 9,
+   "'hc-a2'": "10320",
+   "region": "Bangkok"
+ },
+ {
+   "value": 48,
+   "name": "10330",
+   "x": 2,
+   "y": 10,
+   "'hc-a2'": "10330",
+   "region": "Bangkok"
+ },
+ {
+   "value": 41,
+   "name": "10400",
+   "x": 2,
+   "y": 11,
+   "'hc-a2'": "10400",
+   "region": "Bangkok"
+ },
+ {
+   "value": 33,
+   "name": "10500",
+   "x": 3,
+   "y": 1,
+   "'hc-a2'": "10500",
+   "region": "Bangkok"
+ },
+ {
+   "value": 8,
+   "name": "10510",
+   "x": 3,
+   "y": 2,
+   "'hc-a2'": "10510",
+   "region": "Bangkok"
+ },
+ {
+   "value": 4,
+   "name": "10520",
+   "x": 3,
+   "y": 3,
+   "'hc-a2'": "10520",
+   "region": "Bangkok"
+ },
+ {
+   "value": 14,
+   "name": "10540",
+   "x": 3,
+   "y": 4,
+   "'hc-a2'": "10540",
+   "region": "Bangkok"
+ },
+ {
+   "value": 2,
+   "name": "10560",
+   "x": 3,
+   "y": 5,
+   "'hc-a2'": "10560",
+   "region": "Bangkok"
+ },
+ {
+   "value": 1,
+   "name": "10570",
+   "x": 3,
+   "y": 6,
+   "'hc-a2'": "10570",
+   "region": "Bangkok"
+ },
+ {
+   "value": 5,
+   "name": "10600",
+   "x": 3,
+   "y": 7,
+   "'hc-a2'": "10600",
+   "region": "Bangkok"
+ },
+ {
+   "value": 7,
+   "name": "10700",
+   "x": 3,
+   "y": 8,
+   "'hc-a2'": "10700",
+   "region": "Bangkok"
+ },
+ {
+   "value": 4,
+   "name": "10800",
+   "x": 3,
+   "y": 9,
+   "'hc-a2'": "10800",
+   "region": "Bangkok"
+ },
+ {
+   "value": 48,
+   "name": "10900",
+   "x": 3,
+   "y": 10,
+   "'hc-a2'": "10900",
+   "region": "Bangkok"
+ },
+ {
+   "value": 5,
+   "name": "11000",
+   "x": 3,
+   "y": 11,
+   "'hc-a2'": "11000",
+   "region": "Nonthaburi"
+ },
+ {
+   "value": 2,
+   "name": "11110",
+   "x": 4,
+   "y": 1,
+   "'hc-a2'": "11110",
+   "region": "Nonthaburi"
+ },
+ {
+   "value": 20,
+   "name": "11120",
+   "x": 4,
+   "y": 2,
+   "'hc-a2'": "11120",
+   "region": "Nonthaburi"
+ },
+ {
+   "value": 1,
+   "name": "11130",
+   "x": 4,
+   "y": 3,
+   "'hc-a2'": "11130",
+   "region": "Nonthaburi"
+ },
+ {
+   "value": 1,
+   "name": "11140",
+   "x": 4,
+   "y": 4,
+   "'hc-a2'": "11140",
+   "region": "Nonthaburi"
+ },
+ {
+   "value": 8,
+   "name": "12000",
+   "x": 4,
+   "y": 5,
+   "'hc-a2'": "12000",
+   "region": "Pathumthani"
+ },
+ {
+   "value": 4,
+   "name": "12120",
+   "x": 4,
+   "y": 6,
+   "'hc-a2'": "12120",
+   "region": "Pathumthani"
+ },
+ {
+   "value": 5,
+   "name": "12130",
+   "x": 4,
+   "y": 7,
+   "'hc-a2'": "12130",
+   "region": "Pathumthani"
+ },
+ {
+   "value": 4,
+   "name": "12150",
+   "x": 4,
+   "y": 8,
+   "'hc-a2'": "12150",
+   "region": "Pathumthani"
+ },
+ {
+   "value": 1,
+   "name": "12160",
+   "x": 4,
+   "y": 9,
+   "'hc-a2'": "12160",
+   "region": "Pathumthani"
+ },
+ {
+   "value": 1,
+   "name": "13000",
+   "x": 4,
+   "y": 10,
+   "'hc-a2'": "13000",
+   "region": "Ayutthaya"
+ },
+ {
+   "value": 2,
+   "name": "13160",
+   "x": 4,
+   "y": 11,
+   "'hc-a2'": "13160",
+   "region": "Ayutthaya"
+ },
+ {
+   "value": 1,
+   "name": "13170",
+   "x": 5,
+   "y": 1,
+   "'hc-a2'": "13170",
+   "region": "Ayutthaya"
+ },
+ {
+   "value": 1,
+   "name": "13210",
+   "x": 5,
+   "y": 2,
+   "'hc-a2'": "13210",
+   "region": "Ayutthaya"
+ },
+ {
+   "value": 1,
+   "name": "13290",
+   "x": 5,
+   "y": 3,
+   "'hc-a2'": "13290",
+   "region": "Ayutthaya"
+ },
+ {
+   "value": 1,
+   "name": "17130",
+   "x": 5,
+   "y": 4,
+   "'hc-a2'": "17130",
+   "region": "Chainat"
+ },
+ {
+   "value": 1,
+   "name": "18000",
+   "x": 5,
+   "y": 5,
+   "'hc-a2'": "18000",
+   "region": "Saraburi"
+ },
+ {
+   "value": 3,
+   "name": "20000",
+   "x": 5,
+   "y": 6,
+   "'hc-a2'": "20000",
+   "region": "Chonburi"
+ },
+ {
+   "value": 1,
+   "name": "20110",
+   "x": 5,
+   "y": 7,
+   "'hc-a2'": "20110",
+   "region": "Chonburi"
+ },
+ {
+   "value": 4,
+   "name": "20160",
+   "x": 5,
+   "y": 8,
+   "'hc-a2'": "20160",
+   "region": "Chonburi"
+ },
+ {
+   "value": 2,
+   "name": "20220",
+   "x": 5,
+   "y": 9,
+   "'hc-a2'": "20220",
+   "region": "Chonburi"
+ },
+ {
+   "value": 5,
+   "name": "20230",
+   "x": 5,
+   "y": 10,
+   "'hc-a2'": "20230",
+   "region": "Chonburi"
+ },
+ {
+   "value": 2,
+   "name": "21110",
+   "x": 5,
+   "y": 11,
+   "'hc-a2'": "21110",
+   "region": "Rayong"
+ },
+ {
+   "value": 1,
+   "name": "21120",
+   "x": 6,
+   "y": 1,
+   "'hc-a2'": "21120",
+   "region": "Rayong"
+ },
+ {
+   "value": 5,
+   "name": "21150",
+   "x": 6,
+   "y": 2,
+   "'hc-a2'": "21150",
+   "region": "Rayong"
+ },
+ {
+   "value": 1,
+   "name": "21180",
+   "x": 6,
+   "y": 3,
+   "'hc-a2'": "21180",
+   "region": "Rayong"
+ },
+ {
+   "value": 1,
+   "name": "24000",
+   "x": 6,
+   "y": 4,
+   "'hc-a2'": "24000",
+   "region": "Chachoengsao"
+ },
+ {
+   "value": 1,
+   "name": "24130",
+   "x": 6,
+   "y": 5,
+   "'hc-a2'": "24130",
+   "region": "Chachoengsao"
+ },
+ {
+   "value": 1,
+   "name": "25000",
+   "x": 6,
+   "y": 6,
+   "'hc-a2'": "25000",
+   "region": "Prachinburi"
+ },
+ {
+   "value": 1,
+   "name": "25140",
+   "x": 6,
+   "y": 7,
+   "'hc-a2'": "25140",
+   "region": "Prachinburi"
+ },
+ {
+   "value": 1,
+   "name": "31190",
+   "x": 6,
+   "y": 8,
+   "'hc-a2'": "31190",
+   "region": "Buriram"
+ },
+ {
+   "value": 3,
+   "name": "40000",
+   "x": 6,
+   "y": 9,
+   "'hc-a2'": "40000",
+   "region": "KhonKaen"
+ },
+ {
+   "value": 1,
+   "name": "41000",
+   "x": 6,
+   "y": 10,
+   "'hc-a2'": "41000",
+   "region": "KhonKaen"
+ },
+ {
+   "value": 1,
+   "name": "45000",
+   "x": 6,
+   "y": 11,
+   "'hc-a2'": "45000",
+   "region": "KhonKaen"
+ },
+ {
+   "value": 1,
+   "name": "50100",
+   "x": 7,
+   "y": 1,
+   "'hc-a2'": "50100",
+   "region": "Chiangmai"
+ },
+ {
+   "value": 1,
+   "name": "50120",
+   "x": 7,
+   "y": 2,
+   "'hc-a2'": "50120",
+   "region": "Chiangmai"
+ },
+ {
+   "value": 1,
+   "name": "50200",
+   "x": 7,
+   "y": 3,
+   "'hc-a2'": "50200",
+   "region": "Chiangmai"
+ },
+ {
+   "value": 0,
+   "name": "51000",
+   "x": 7,
+   "y": 4,
+   "'hc-a2'": "51000",
+   "region": "Lamphun"
+ },
+ {
+   "value": 1,
+   "name": "52170",
+   "x": 7,
+   "y": 5,
+   "'hc-a2'": "52170",
+   "region": "Lampang"
+ },
+ {
+   "value": 1,
+   "name": "57100",
+   "x": 7,
+   "y": 6,
+   "'hc-a2'": "57100",
+   "region": "Chiangrai"
+ },
+ {
+   "value": 2,
+   "name": "73120",
+   "x": 7,
+   "y": 7,
+   "'hc-a2'": "73120",
+   "region": "Nakhonpathom"
+ },
+ {
+   "value": 4,
+   "name": "73210",
+   "x": 7,
+   "y": 8,
+   "'hc-a2'": "73210",
+   "region": "Nakhonpathom"
+ },
+ {
+   "value": 1,
+   "name": "73220",
+   "x": 7,
+   "y": 9,
+   "'hc-a2'": "73220",
+   "region": "Nakhonpathom"
+ },
+ {
+   "value": 6,
+   "name": "74000",
+   "x": 7,
+   "y": 10,
+   "'hc-a2'": "74000",
+   "region": "Samutsakhon"
+ },
+ {
+   "value": 0,
+   "name": "74110",
+   "x": 7,
+   "y": 11,
+   "'hc-a2'": "74110",
+   "region": "Samutsakhon"
+ },
+ {
+   "value": 2,
+   "name": "74130",
+   "x": 8,
+   "y": 1,
+   "'hc-a2'": "74130",
+   "region": "Samutsakhon"
+ },
+ {
+   "value": 2,
+   "name": "74130",
+   "x": 8,
+   "y": 2,
+   "'hc-a2'": "74130",
+   "region": "Samutsakhon"
+ },
+ {
+   "value": 1,
+   "name": "81110",
+   "x": 8,
+   "y": 3,
+   "'hc-a2'": "81110",
+   "region": "Krabi"
+ },
+ {
+   "value": 1,
+   "name": "84000",
+   "x": 8,
+   "y": 4,
+   "'hc-a2'": "84000",
+   "region": "Suratthani"
+ },
+ {
+   "value": 1,
+   "name": "84220",
+   "x": 8,
+   "y": 5,
+   "'hc-a2'": "84220",
+   "region": "Suratthani"
+ },
+ {
+   "value": 1,
+   "name": "86000",
+   "x": 8,
+   "y": 6,
+   "'hc-a2'": "86000",
+   "region": "Chumphon"
+ },
+ {
+   "value": 3,
+   "name": "90110",
+   "x": 8,
+   "y": 7,
+   "'hc-a2'": "90110",
+   "region": "Songkhla"
+ },
+ {
+   "value": 1,
+   "name": "90310",
+   "x": 8,
+   "y": 8,
+   "'hc-a2'": "90310",
+   "region": "Songkhla"
+ },
+ {
+   "value": 1,
+   "name": "92000",
+   "x": 8,
+   "y": 9,
+   "'hc-a2'": "92000",
+   "region": "Trang"
+ },
+ {
+   "value": 2,
+   "name": "Other",
+   "x": 8,
+   "y": 10,
+   "'hc-a2'": "Other",
+   "region": "Other"
+ }
+]

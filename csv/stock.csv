@@ -1,0 +1,30 @@
+industry,Count of industry,,,,,,,,
+-,8,,,,,,,,
+Agro & Food Industry,59,,,,,,,,
+Consumer Products,51,,,,,,,,
+Financials,67,,,,,,,,
+Industrial,36,,,,,,,,
+Industrials,91,,,,,,,,
+Property & Construction,174,,,,,,,,
+Resources,63,,,,,,,,
+Services,151,,,,,,,,
+Technology,51,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Property & Construction,174,23.16910786,23.17,,,,,,
+Services,151,20.10652463,20.11,,,,,,
+Industrials,127,16.91078562,16.91,,,,,,
+Financials,67,8.921438083,8.92,,,,,,
+Resources,63,8.388814913,8.39,,,,technology,51,6.790945406
+Agro & Food Industry,59,7.856191744,7.86,,,,service,151,20.10652463
+Consumer Products,51,6.790945406,6.79,,,,resources,63,8.388814913
+Technology,51,6.790945406,6.79,,,,property&construction,174,23.16910786
+others,8,1.065246338,1.07,,,,industrials,91,12.1171771
+,751,,,,,,,36,4.793608522
+,,,,,,,,67,8.921438083
+,,,,,,,,51,6.790945406
+,,,,,,,,59,7.856191744
+,,,,,,,,8,1.065246338
+,,,,,,,,751,
