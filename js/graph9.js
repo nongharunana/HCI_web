@@ -3,6 +3,7 @@ Highcharts.chart('container9', {
         polar: true,
         type: 'line'
     },
+    colors: ['#504136'],
     title: {
         text: 'Industry in Chonburi',
         x: -80

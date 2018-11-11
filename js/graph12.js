@@ -3,6 +3,7 @@ Highcharts.chart('container12', {
         polar: true,
         type: 'line'
     },
+    colors: ['#6CAE75'],
     title: {
         text: 'Industry in Prachinburi',
         x: -80

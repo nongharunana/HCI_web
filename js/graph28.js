@@ -3,6 +3,7 @@ Highcharts.chart('container28', {
         polar: true,
         type: 'line'
     },
+    colors: ['#CD533B'],
     title: {
         text: 'Industry in Others',
         x: -80

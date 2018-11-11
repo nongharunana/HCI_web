@@ -3,6 +3,7 @@ Highcharts.chart('container7', {
         polar: true,
         type: 'line'
     },
+    colors: ['#22181C'],
     title: {
         text: 'Industry in Chainat',
         x: -80

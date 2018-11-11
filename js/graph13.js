@@ -3,6 +3,7 @@ Highcharts.chart('container13', {
         polar: true,
         type: 'line'
     },
+    colors: ['#515751'],
     title: {
         text: 'Industry in Buriram',
         x: -80

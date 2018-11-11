@@ -3,6 +3,7 @@ Highcharts.chart('container2', {
         polar: true,
         type: 'line'
     },
+    
     title: {
         text: 'Industry & Province',
         x: -80

@@ -3,6 +3,7 @@ Highcharts.chart('container6', {
         polar: true,
         type: 'line'
     },
+    colors: ['#C45AB3'],
     title: {
         text: 'Industry in Ayutthaya',
         x: -80

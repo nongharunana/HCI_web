@@ -3,6 +3,7 @@ Highcharts.chart('container8', {
         polar: true,
         type: 'line'
     },
+    colors: ['#5C2751'],
     title: {
         text: 'Industry in Saraburi',
         x: -80

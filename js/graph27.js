@@ -3,6 +3,7 @@ Highcharts.chart('container27', {
         polar: true,
         type: 'line'
     },
+    colors: ['#C0BABC'],
     title: {
         text: 'Industry in Trang',
         x: -80

@@ -3,6 +3,7 @@ Highcharts.chart('container18', {
         polar: true,
         type: 'line'
     },
+    colors: ['#3B28CC'],
     title: {
         text: 'Industry in Lamphun',
         x: -80

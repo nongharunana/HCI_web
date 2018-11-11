@@ -3,6 +3,7 @@ Highcharts.chart('container14', {
         polar: true,
         type: 'line'
     },
+    colors: ['#BAD7F2'],
     title: {
         text: 'Industry in KhonKaen',
         x: -80

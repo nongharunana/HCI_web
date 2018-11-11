@@ -3,6 +3,7 @@ Highcharts.chart('container23', {
         polar: true,
         type: 'line'
     },
+    colors: ['#7F055F'],
     title: {
         text: 'Industry in Krabi',
         x: -80

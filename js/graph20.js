@@ -3,6 +3,7 @@ Highcharts.chart('container20', {
         polar: true,
         type: 'line'
     },
+    colors: ['#2D3047'],
     title: {
         text: 'Industry in Chiangrai',
         x: -80

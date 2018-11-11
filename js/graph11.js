@@ -3,6 +3,7 @@ Highcharts.chart('container11', {
         polar: true,
         type: 'line'
     },
+    colors: ['#754F44'],
     title: {
         text: 'Industry in Chachoengsao',
         x: -80

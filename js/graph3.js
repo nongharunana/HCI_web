@@ -3,6 +3,7 @@ Highcharts.chart('container3', {
         polar: true,
         type: 'line'
     },
+    colors: ['#7F675B'],
     title: {
         text: 'Industry in Bangkok',
         x: -80

@@ -3,6 +3,7 @@ Highcharts.chart('container16', {
         polar: true,
         type: 'line'
     },
+    colors: ['#BAF2BB'],
     title: {
         text: 'Industry in Roiet',
         x: -80

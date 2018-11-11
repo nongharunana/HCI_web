@@ -3,6 +3,7 @@ Highcharts.chart('container21', {
         polar: true,
         type: 'line'
     },
+    colors: ['#FFFD82'],
     title: {
         text: 'Industry in Nakhonpathom',
         x: -80

@@ -1,8 +1,10 @@
 Highcharts.chart('container10', {
     chart: {
         polar: true,
-        type: 'line'
+        type: 'line',
+
     },
+    colors: ['#EC7357'],
     title: {
         text: 'Industry in Rayong',
         x: -80
@@ -22,7 +24,8 @@ Highcharts.chart('container10', {
     },
     tooltip: {
         shared: true,
-        pointFormat: '<span style="color:{series.color}">{series.name}: <b>{point.y:,.0f}</b><br/>'
+        pointFormat: '<span style="color:{series.color}">{series.name}: <b>{point.y:,.0f}</b><br/>',
+
     },
     legend: {
         align: 'right',

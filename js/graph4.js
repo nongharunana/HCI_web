@@ -3,6 +3,7 @@ Highcharts.chart('container4', {
         polar: true,
         type: 'line'
     },
+    colors: ['#0075F2'],
     title: {
         text: 'Industry in Nonthaburi',
         x: -80

@@ -3,6 +3,7 @@ Highcharts.chart('container24', {
         polar: true,
         type: 'line'
     },
+    colors: ['#E84855'],
     title: {
         text: 'Industry in Suratthani',
         x: -80

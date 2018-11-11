@@ -3,6 +3,7 @@ Highcharts.chart('container19', {
         polar: true,
         type: 'line'
     },
+    colors: ['#3F8EFC'],
     title: {
         text: 'Industry in Lampang',
         x: -80

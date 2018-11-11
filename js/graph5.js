@@ -3,6 +3,7 @@ Highcharts.chart('container5', {
         polar: true,
         type: 'line'
     },
+    colors: ['#F45866'],
     title: {
         text: 'Industry in Pathumthani',
         x: -80

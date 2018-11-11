@@ -3,6 +3,7 @@ Highcharts.chart('container15', {
         polar: true,
         type: 'line'
     },
+    colors: ['#F2BAC9'],
     title: {
         text: 'Industry in Udonthani',
         x: -80

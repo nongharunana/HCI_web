@@ -3,6 +3,7 @@ Highcharts.chart('container17', {
         polar: true,
         type: 'line'
     },
+    colors: ['#F2E2BA'],
     title: {
         text: 'Industry in Chiangmai',
         x: -80

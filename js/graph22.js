@@ -3,6 +3,7 @@ Highcharts.chart('container22', {
         polar: true,
         type: 'line'
     },
+    colors: ['#FF9B71'],
     title: {
         text: 'Industry in Samutsakhon',
         x: -80

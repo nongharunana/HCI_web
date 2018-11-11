@@ -3,6 +3,7 @@ Highcharts.chart('container25', {
         polar: true,
         type: 'line'
     },
+    colors: ['#87A330'],
     title: {
         text: 'Industry in Chumphon',
         x: -80

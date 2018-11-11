@@ -3,6 +3,7 @@ Highcharts.chart('container26', {
         polar: true,
         type: 'line'
     },
+    colors: ['#243010'],
     title: {
         text: 'Industry in Songkhla',
         x: -80
